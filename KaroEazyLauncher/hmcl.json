@@ -1,0 +1,69 @@
+{
+  "last": "Default",
+  "bgpath": "",
+  "commonpath": "C:\\Users\\JayshonYves\\AppData\\Roaming\\.minecraft",
+  "clientToken": "2788f01d-8a8d-4891-94e3-ffcc248113b8",
+  "proxyType": 0,
+  "enableShadow": true,
+  "enableBlur": true,
+  "enableAnimation": true,
+  "decorated": false,
+  "theme": "blue",
+  "logintype": 0,
+  "downloadtype": 1,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.3.2655",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_91",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    },
+    "Home": {
+      "selectedMinecraftVersion": "",
+      "gameDir": "C:\\Users\\JayshonYves\\AppData\\Roaming\\.minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+    "offline": {
+      "uuidMap": {
+        "Jayshonyves": "dd2e4a841d512870c53539d700072bc8"
+      },
+      "IAuthenticator_UserName": "Jayshonyves"
+    }
+  },
+  "fontFamily": "Consolas",
+  "fontSize": 12,
+  "logLines": 100
+}
